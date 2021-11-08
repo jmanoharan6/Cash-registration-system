@@ -1,0 +1,50 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container
+{
+    width:90%;
+    max-width: 800px;
+    margin: 0px auto;
+    padding:32px 0px;
+    
+}
+
+.rupees-table{
+    border: 1px solid black;
+    margin: 50px;
+    padding: 20px;
+
+}
+.btn{
+    padding: 5px;
+    width: 35px;
+    margin: 10px;
+
+}
+.btn-cash{
+    width:fit-content;
+    
+    margin-left: 35px;
+
+}
+.btn-clear{
+    width:fit-content;
+    margin-left: 35px;
+    
+}
+
+.number-table{
+    border: 1px solid black    ;
+    margin: 50px;
+}
+.output-section{
+    border: 1px solid black    ;
+    margin: 50px;
+    width: 20%;
+    height: 100pt;
+    
+}
